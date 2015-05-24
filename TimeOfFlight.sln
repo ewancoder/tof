@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeOfFlight", "TimeOfFlight\TimeOfFlight.csproj", "{DD50509E-0D6E-4298-94D6-6C76C04384DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TOF", "TOF\TOF.csproj", "{A3E6B7E2-1E44-40CF-82EC-A116FCBD3FCE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD50509E-0D6E-4298-94D6-6C76C04384DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD50509E-0D6E-4298-94D6-6C76C04384DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD50509E-0D6E-4298-94D6-6C76C04384DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD50509E-0D6E-4298-94D6-6C76C04384DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3E6B7E2-1E44-40CF-82EC-A116FCBD3FCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3E6B7E2-1E44-40CF-82EC-A116FCBD3FCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3E6B7E2-1E44-40CF-82EC-A116FCBD3FCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3E6B7E2-1E44-40CF-82EC-A116FCBD3FCE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
